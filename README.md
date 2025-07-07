@@ -13,7 +13,7 @@
 ## ⏳ WakaTime Stats (last 7 days)
 
 <!-- Replace wakatime_username with your real WakaTime username -->
-![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=wakati_usernamekamu&theme=radical)
+![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Fikriaz&theme=radical)
 
 ## 📫 Connect with me
 
