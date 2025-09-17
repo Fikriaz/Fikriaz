@@ -7,8 +7,9 @@
 
 ## 📊 GitHub Stats
 
-![Fikri's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fikriaz&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fikriaz&layout=compact&theme=radical)
+![Fikri's GitHub stats](https://github-readme-stats-fikriaz.vercel.app/api?username=Fikriaz&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats-fikriaz.vercel.app/api/top-langs/?username=Fikriaz&layout=compact&theme=radical)
+
 
 ## ⏳ WakaTime Stats (last 7 days)
 
