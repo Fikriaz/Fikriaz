@@ -7,8 +7,13 @@
 
 ## 📊 GitHub Stats
 
-![Fikri's GitHub stats](https://github-readme-stats-fikriaz.vercel.app/api?username=Fikriaz&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats-fikriaz.vercel.app/api/top-langs/?username=Fikriaz&layout=compact&theme=radical)
+## 📊 GitHub Stats
+
+![Fikri's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fikriaz&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fikriaz&layout=compact&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Fikriaz&theme=radical)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Fikriaz&theme=radical)
+
 
 
 ## ⏳ WakaTime Stats (last 7 days)
