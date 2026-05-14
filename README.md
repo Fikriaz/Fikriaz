@@ -8,17 +8,11 @@
 
 
 ## 📊 GitHub Stats
-
-![Fikri's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fikriaz&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fikriaz&layout=compact&theme=radical)
-
-
+![Fikri's GitHub stats](https://github-stats-fikriaz.vercel.app/api?username=Fikriaz&show_icons=true&theme=dracula)
+![Top Langs](https://github-stats-fikriaz.vercel.app/api/top-langs/?username=Fikriaz&layout=compact&theme=dracula)
 
 ## ⏳ WakaTime Stats (last 7 days)
-
-<!-- Replace wakatime_username with your real WakaTime username -->
-![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Fikriaz&theme=radical)
-
+![WakaTime stats](https://github-stats-fikriaz.vercel.app/api/wakatime?username=USERNAME_WAKATIME_KAMU&theme=dracula)
 ## 📫 Connect with me
 
 [![GitHub](https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white)](https://github.com/Fikriaz)
